@@ -5,7 +5,9 @@ Everything is basically curated from already available resources from the Web. B
 to help understand it in much simpler terms all from various places. The aim of this is to help someone with a similar mindset
 or simply having difficulty in understanding the concepts, do so in an easier fashion.
 
+***For a more high level view of things, you can refer to my blog here: [TheHackrSpace](https://thehackrspace.com)***
 
 
 
-**Note: The actual credits for everything goes to the amazing infosec people and their commendable Research. Thank You❤️**
+
+**The actual credits for everything goes to the amazing infosec people and their commendable Research. Thank You❤️**
